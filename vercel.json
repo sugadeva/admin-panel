@@ -1,0 +1,7 @@
+{
+  "env": {
+    "API_KEY": "@api_key",
+    "PANEL_URL": "@panel_url",
+    "ADMIN_PASSWORD": "@admin_password"
+  }
+}
